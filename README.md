@@ -7,3 +7,4 @@
   <li>tailwind and css </li>
   <li>rtk query for (add,delete,update) the tasks </li>
 </ul>
+<p>there issue as i used json-server to run code , so when download project make sure after install dependecies (npm i ) run the json server </p>
